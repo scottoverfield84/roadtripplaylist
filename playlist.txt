@@ -4,3 +4,5 @@ song - artist
 
 Some Girls - Rolling Stones
 Dead Flowers - Rolling stones
+Paint It Black - Rolling Stones
+Midnight Rambler - Rolling Stones
