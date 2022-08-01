@@ -2,7 +2,15 @@
 song - artist
 ==============
 
+<<<<<<< HEAD
 The Race Is On - George Jones
 I Don't Need Your Rockin' Chair - George Jones
 A Picture of Me without You - George Jones
 He Stopped Loving Her Today - George Jones
+=======
+Rusty Cage - Soundgarden
+Would - Alice in Chains
+Serve The Servants - Nirvana
+Corduroy - Pearl Jam
+
+>>>>>>> grunge
