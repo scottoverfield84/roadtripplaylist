@@ -2,25 +2,9 @@
 song - artist
 ==============
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
+Over the Hills and Far Away - Led Zeppelin
+Whole Lotta Love - Led Zeppelin
+Mother's Little Helper - Rolling Stones
+Easy Wind - Grateful Dead
 
-
-
-
-
-
->>>>>>> GeorgeJones
-The Race Is On - George Jones
-I Don't Need Your Rockin' Chair - George Jones
-A Picture of Me without You - George Jones
-He Stopped Loving Her Today - George Jones
-=======
-Rusty Cage - Soundgarden
-Would - Alice in Chains
-Serve The Servants - Nirvana
-Corduroy - Pearl Jam
-
->>>>>>> grunge
